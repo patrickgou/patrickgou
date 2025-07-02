@@ -1,7 +1,7 @@
-M1113R/README.md
+patrickgou/README.md
 Follow me
 
-Gabriel Miller Silone
+Patrick Goulart Ferreira de Matos
 Fullstack Developer
 
 👨‍🦰 About me:
