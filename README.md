@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#FF4500">Patrick Goulart Ferreira de Matos</span></h1>
-<h3 align="center">🚀 Fullstack Developer</h3>
+<h1 align="center">💻 Hey, I'm <span style="color:#FF4500">Patrick Goulart Ferreira de Matos</span></h1>
+<h3 align="center">💡 Fullstack Developer</h3>
 
 ---
 
