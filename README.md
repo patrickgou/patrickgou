@@ -1,16 +1,15 @@
-## Hi there 👋
+M1113R/README.md
+Follow me
 
-<!--
-**patrickgou/patrickgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gabriel Miller Silone
+Fullstack Developer
 
-Here are some ideas to get you started:
+👨‍🦰 About me:
+📚 Graduated in Analyses and Systems Development at University of Rio De Janeiro - Estácio.
+🧑‍💻 Technologies:
+HTML5 CSS3 Bootstrap NextJs TypeScript JavaScript Python ReactJS C# PHP MySQL PostgreSQL Power Bi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VsCode Git  Visual Studio
+
+📞 Contacts:
+Linkedin Badge Gmail Badge  
