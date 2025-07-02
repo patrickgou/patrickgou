@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm an undergraduate student in **Analyses and Systems Development** at *University of Rio De Janeiro - Estácio*  
+- 🎓 I'm an undergraduate student in **Analyses and Systems Development** at *Estácio de Sá University – Rio de Janeiro*  
 - 💡 Passionate about building intuitive and efficient software solutions  
 - 🌱 Always learning and exploring new technologies  
 
