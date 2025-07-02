@@ -12,4 +12,4 @@ HTML5 CSS3 Bootstrap NextJs TypeScript JavaScript Python ReactJS C# PHP MySQL Po
 VsCode Git  Visual Studio
 
 📞 Contacts:
-Linkedin Badge Gmail Badge  
+  Gmail goulartpatrick28@gmail.com 
